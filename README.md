@@ -1,2 +1,3 @@
 # r-test
-R git into CP4D
+
+Deploying R models in online mode on Cloud Pak for Data
